@@ -1,0 +1,7 @@
+
+{
+  "name": "Image Editor Pro",
+  "description": "An advanced image editor allowing users to upload images, apply various edits like cropping, adding text with custom fonts, applying gradient overlays, placing logos, and adjusting image effects. Exports the final masterpiece.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
